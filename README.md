@@ -1,4 +1,4 @@
-# Homespace NFT Land
+# Сhainlink NFT Land Randomizer
 
 ## Installation
 
